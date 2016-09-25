@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:paddingBottom="50sp"
+        android:scaleType="fitXY"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="Flag" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageview"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="50dp"
+
+        android:paddingLeft="10dp"
+        android:text="Rating : "
+        android:textColor="#4037bf"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageview"
+
+
+        android:paddingBottom="50dp"
+
+        android:paddingLeft="110dp"
+        android:text="0"
+        android:textColor="#4037bf"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+
+    <TextView
+        android:id="@+id/rating1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageview"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:paddingBottom="10dp"
+        android:paddingRight="60dp"
+
+        android:text="Price : "
+        android:textColor="#4037bf"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageview"
+
+
+
+        android:paddingBottom="10dp"
+
+        android:layout_alignRight="@+id/rating1"
+
+        android:text="1000"
+        android:textColor="#4037bf"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+
+
+
+
+
+
+</RelativeLayout>

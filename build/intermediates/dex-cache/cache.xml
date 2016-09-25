@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-f8a5a41813165b95dd876e917faef61d6649eee1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-5439a4bc6b0485fa04b976fd9ceca8f657e722a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-f2d5ab05dae37e261b24fc33cd7115f2561e7be0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-c07d7d2129ea7c7f4488b04d10ad47d1505780c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-188e4176930801461bdea5251a3fe233717e8b42.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-6d880d56bd3dda6779b1038cf2c377f034faf317.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-4bf7836741329faaaf3afe8414f022bc21aceeef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-e20db2c4437ced7151352dd0dcbd8a2c9a206de9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9b2f7d9704952247687a43c1a8f4d87a4f866646.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-9e3ae11392ccd8dd3cb230e922a21f753142ec1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-0156f9d0501d14d807913a93275b76b13c69b350.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-d7a9bc925c6c255d9582235d1818cc6cec723a52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-44692c499b38fe97cc7d659aa00692b86a057c4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-1e9355a1318a0623a78e0e1b9a0e7494dce7a2f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-ad324e5e9ee410d421888f755c5fca361e490d96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-1cfc94b8fb6e9570c4792e0583e4eb7be2f90563.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-759053bcea4c49b276cc93446f6ca5159c7762fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-502debc7bd1cb54d6c487d73a0458f8adfa5a575.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-1367bbbae0d3d858e9f815d94b493a74514a658a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-ab2edda2515ce712acb3552004b65eafb872fe51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-a618744c395338be07b48e06955ffba49962e61d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-8382eaf2a882a199a393cdc0fd6f69d2fd7a468c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-72dd151598520f36aa1255be0c3ba874051af19b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-e1ce910a0ce2e65f075f968cfb683c9349f84f5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-a0cd7c19cfa2371576f35ab971876b17cab1d789.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-c4f507be8974cf0edc6ddd0a4c487c95b1ab83b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-7a9a567384a76e91748223aebe59f48774272cd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-dfe7edff8bb029afe1aca887771b33f53dc5994e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Rachit agarwal\.AndroidStudio1.4\FashionApp\app\build\intermediates\pre-dexed\debug\classes-5003cb4ca45a4425a17097b6138fb9efe9f4cbfd.jar" />
+    </item>
+
+</items>
